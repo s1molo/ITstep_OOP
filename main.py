@@ -125,6 +125,7 @@ for day in range(365):
         break
 pasha.life(day)
 """
+''''''''
 
 
 
