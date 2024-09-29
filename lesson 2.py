@@ -267,3 +267,5 @@ for day in range(1, 8):
     if Maksim.live(day) == False:
         break
 
+
+
