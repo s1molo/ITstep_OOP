@@ -1,0 +1,17 @@
+DEBUG:root:debug
+INFO:root:info
+DEBUG:root:debug
+INFO:root:info
+WARNING:root:warning
+ERROR:root:error
+CRITICAL:root:critical
+2024-10-13 16:53:16,412 - root - DEBUG - debug
+2024-10-13 16:53:16,412 - root - INFO - info
+2024-10-13 16:53:16,412 - root - WARNING - warning
+2024-10-13 16:53:16,412 - root - ERROR - error
+2024-10-13 16:53:16,412 - root - CRITICAL - critical
+2024-10-13 16:53:25,724 - root - DEBUG - debug
+2024-10-13 16:53:25,724 - root - INFO - info
+2024-10-13 16:53:25,724 - root - WARNING - warning
+2024-10-13 16:53:25,724 - root - ERROR - error
+2024-10-13 16:53:25,724 - root - CRITICAL - critical
